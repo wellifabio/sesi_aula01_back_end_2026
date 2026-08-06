@@ -1,1 +1,14 @@
-# sesi_aula01_back_end_2026
+# Programas criados na primeira aula de back-end
+
+## Tecnologias
+- Node.js
+- JavaScript
+- VsCode
+
+## Para testar
+- Clone este reporitório
+- Abra com VsCode
+- Execute cada arquivo individualmente com node
+```bash
+node nome_arquivo.js
+```
